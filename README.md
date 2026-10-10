@@ -1,0 +1,1 @@
+In this study, we consider two corpora - a corpus of poetries, by 28 contemporary poets; and a corpus of 29 research papers across different disciplines. We divide each source into chunks and obtain their frequency distributions. Then we obtain the mean, variance, skewness and kurtosis. Then, for each language model, these four measures of cross entropy are ranked.  
